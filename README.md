@@ -1,6 +1,12 @@
+# This is a supplemental code from the book "The Cranky Man's Guide to LoRA & QLoRA"!
 
-# This is a code from the book "The Cranky Man's Guide to LoRA & QLoRA"!
+Well, if you are reading this, then congratulations! You have read a copy of "The Cranky Man's Guide to LoRA & QLoRA!" Now, you can finally get some peace and quiet, which is what you came here to do!
 
+But before you settle in, I want to warn you that this book contains a some "supplemental Python code" (SPC), and you are NOT going to like it. I can tell by the look in your eyes. And I know what you are going to say, "But Cranky Man! The whole point of buying this book was to learn how to use LoRA and QLoRA!"
+
+And to that I say, "Shut up!"
+
+LoRA and QLoRA are neat and all, but they are not worth going through all the hassle of having to copy and paste all this "supplemental code." in the book itself. Especially with the horrible ePub formating. So if you are still reading this, then you have clearly lost your mind.
 
 ## Well, it happened. I Wrote a 600-Page Book About My LLM Mad Experiments
 
